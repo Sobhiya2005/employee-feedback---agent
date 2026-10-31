@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+target/
+*.jar
+*.war
+*.zip
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
