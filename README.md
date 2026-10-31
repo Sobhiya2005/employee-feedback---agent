@@ -1,5 +1,6 @@
 # 🤖 AI-Powered Employee Feedback Agent for HR Decision Support
 
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Application-brightgreen?style=for-the-badge&logo=google-cloud)](https://ais-pre-jek376bg4nmoqbuornro34-632349204207.asia-east1.run.app)
 [![React 19](https://img.shields.io/badge/Frontend-React%2019-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-6.2-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -10,6 +11,18 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An enterprise-grade, intelligent employee feedback management and organizational pulse platform. Powered by **Google Gemini AI**, this system bridges the gap between workforce sentiments and executive HR decisions by automatically categorizing feedback, analyzing sentiment tone and burnout risks, detecting organizational bottlenecks, and generating actionable HR intervention strategies.
+
+---
+
+## 🌐 Live Application Links
+
+- **🚀 Live Application URL**: [https://ais-pre-jek376bg4nmoqbuornro34-632349204207.asia-east1.run.app](https://ais-pre-jek376bg4nmoqbuornro34-632349204207.asia-east1.run.app)
+- **💻 GitHub Repository**: [https://github.com/Sobhiya2005/employee-feedback---agent](https://github.com/Sobhiya2005/employee-feedback---agent)
+
+### 🔑 Demo Accounts for Instant Testing:
+- **HR Admin Portal**: Email: `hr@company.com` | Password: `password123`
+- **Employee Portal**: Email: `sarah.j@company.com` | Password: `password123`
+*(You can also sign up with any custom email address to test multi-user isolation!)*
 
 ---
 
