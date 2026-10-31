@@ -1,6 +1,6 @@
 # 🤖 AI-Powered Employee Feedback Agent for HR Decision Support
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20Application-brightgreen?style=for-the-badge&logo=google-cloud)](https://ais-pre-jek376bg4nmoqbuornro34-632349204207.asia-east1.run.app)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Application-brightgreen?style=for-the-badge&logo=google-cloud)](https://ais-dev-jek376bg4nmoqbuornro34-632349204207.asia-east1.run.app)
 [![React 19](https://img.shields.io/badge/Frontend-React%2019-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-6.2-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -16,7 +16,8 @@ An enterprise-grade, intelligent employee feedback management and organizational
 
 ## 🌐 Live Application Links
 
-- **🚀 Live Application URL**: [https://ais-pre-jek376bg4nmoqbuornro34-632349204207.asia-east1.run.app](https://ais-pre-jek376bg4nmoqbuornro34-632349204207.asia-east1.run.app)
+- **🚀 Live Application (Active Preview)**: [https://ais-dev-jek376bg4nmoqbuornro34-632349204207.asia-east1.run.app](https://ais-dev-jek376bg4nmoqbuornro34-632349204207.asia-east1.run.app)
+- **🔗 Shared Deployment URL**: [https://ais-pre-jek376bg4nmoqbuornro34-632349204207.asia-east1.run.app](https://ais-pre-jek376bg4nmoqbuornro34-632349204207.asia-east1.run.app) *(Active once shared/published in AI Studio)*
 - **💻 GitHub Repository**: [https://github.com/Sobhiya2005/employee-feedback---agent](https://github.com/Sobhiya2005/employee-feedback---agent)
 
 ### 🔑 Demo Accounts for Instant Testing:
